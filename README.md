@@ -20,7 +20,7 @@
                 <li><strong>Overview:</strong>  A SQL Database is a type of relational database that uses Structured Query Language (SQL) for storing, managing and retrieving information. its commonly used in web application, enterprise systems, and data analysis task due to its ability to handle large volume of structured data efficiently.
              </li>
             <li><strong>Purpose In Project:</strong> Its purpose in my project is to move a retail company online store to Azure to handle traffic spike during sales event and to ensure high availability and secure customers transactions .</li>
-                <li><strong>Prerequisites:</strong> List requirements such as a GitHub account, Azure account, and Azure CLI.</li>
+                <li><strong>Requirement:</strong> GitHub account, Azure account, and Azure CLI.</li>
                 <li><strong>Deployment Steps:</strong> Provide step-by-step instructions to deploy your static web app. For example:
                     <pre>
 az login
