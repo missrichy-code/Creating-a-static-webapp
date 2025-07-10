@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>How to Create Static Web App Documentation in Your GitHub Repository</title>
+
+    
+    <title>How to Create Static Web App </title>
     <style>
         body { font-family: Arial, sans-serif; margin: 2em; }
         h1 { color: #0078d4; }
