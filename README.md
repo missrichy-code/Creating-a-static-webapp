@@ -4,19 +4,7 @@
 </head>
 <body>
     <h1>How to Create a SQL Database </h1>
-    <p>
-        Follow these steps to add Static Web App :
-    </p>
-    <ol>
-        <li>
-            <strong>Create a Documentation File:</strong>
-            <ul>
-                <li>Add a new file named <code>SQL_Database.md</code> or <code>docs/static-web-app.md</code> in your repository.</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Include Key Sections:</strong>
-            <ul>
+   
                 <li><strong>Overview:</strong>  A SQL Database is a type of relational database that uses Structured Query Language (SQL) for storing, managing and retrieving information. its commonly used in web application, enterprise systems, and data analysis task due to its ability to handle large volume of structured data efficiently.
              </li>
             <li><strong>Purpose In Project:</strong> Its purpose in my project is to move a retail company online store to Azure to handle traffic spike during sales event and to ensure high availability and secure customers transactions .</li>
