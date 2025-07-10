@@ -17,7 +17,7 @@
         <li>
             <strong>Include Key Sections:</strong>
             <ul>
-                <li><strong>Overview:</strong> Briefly describe what a static web app is and its purpose in your project.</li>
+                <li><strong>Overview:</strong> A static Web App is a type of application that delivers pre-built HTML, CSS, AND JavaScript files directly to the user's browser, without requiring server-side processing at runtime.</li>
                 <li><strong>Prerequisites:</strong> List requirements such as a GitHub account, Azure account, and Azure CLI.</li>
                 <li><strong>Deployment Steps:</strong> Provide step-by-step instructions to deploy your static web app. For example:
                     <pre>
