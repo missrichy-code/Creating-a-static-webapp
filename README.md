@@ -1,4 +1,4 @@
-HOW TO CREATE A SQL DATABASE
+
     
     
 </head>
@@ -11,6 +11,7 @@ HOW TO CREATE A SQL DATABASE
             <li><strong>Purpose In Project:</strong> Its purpose in my project is to move a retail company online store to Azure to handle traffic spike during sales event and to ensure high availability and secure customers transactions .</li>
                    <li><strong>Deployment Steps:</strong> Provide step-by-step instructions to deploy your static web app. For example:
                     <pre>
+                        <li><strong>Requirement:</strong> GitHub account, Azure account, and Azure CLI.</li>
 az login
 az staticwebapp create \
   --name &lt;your-app-name&gt; \
