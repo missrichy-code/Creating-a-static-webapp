@@ -3,7 +3,7 @@
     
 </head>
 <body>
-    <h1>How to Create Static Web App </h1>
+    <h1>How to Create a SQL Database </h1>
     <p>
         Follow these steps to add Static Web App :
     </p>
