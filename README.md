@@ -1,17 +1,11 @@
 
     
-    <title>How to Create Static Web App </title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 2em; }
-        h1 { color: #0078d4; }
-        code, pre { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
-        ol { margin-left: 1.5em; }
-    </style>
+    
 </head>
 <body>
-    <h1>How to Create Static Web App Documentation in Your GitHub Repository</h1>
+    <h1>How to Create Static Web App </h1>
     <p>
-        Follow these steps to add Static Web App documentation to your GitHub repository:
+        Follow these steps to add Static Web App :
     </p>
     <ol>
         <li>
