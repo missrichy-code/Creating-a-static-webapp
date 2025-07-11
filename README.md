@@ -25,7 +25,7 @@
                         
                         
                                     
-  --name &lt;your-app-name&gt; \
+  <ing src="screenshot.jpeg" alt="This is my image">
   --resource-group &lt;your-resource-group&gt; \
   --source &lt;repository-url&gt; \
   --location &lt;region&gt;
