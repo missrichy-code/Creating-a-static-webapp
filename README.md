@@ -12,7 +12,7 @@
                    <li><strong>Deployment Steps:</strong> step-by-step instructions to deploy a SQL Database
                     <pre>
                     login to your AZURE PORTAL
-az Go to Azure SQL \
+ Go to Azure SQL \
   --name &lt;your-app-name&gt; \
   --resource-group &lt;your-resource-group&gt; \
   --source &lt;repository-url&gt; \
