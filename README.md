@@ -22,6 +22,7 @@
                         Set Admin
                         Go to Networking
                         Connectivity Method- Public endpoint
+                        <ing src="screenshot.jpeg" alt="This is my image">
                         
                         
                                     
