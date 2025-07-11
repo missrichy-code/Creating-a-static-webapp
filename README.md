@@ -13,6 +13,7 @@
                     <pre>
                     login to your AZURE PORTAL
  Go to Azure SQL \
+                        Accept the free tier database
   --name &lt;your-app-name&gt; \
   --resource-group &lt;your-resource-group&gt; \
   --source &lt;repository-url&gt; \
