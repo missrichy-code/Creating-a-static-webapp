@@ -11,7 +11,19 @@
             <li><strong>Purpose In Project:</strong> Its purpose in my project is to move a retail company online store to Azure to handle traffic spike during sales event and to ensure high availability and secure customers transactions .</li>
                    <li><strong>Deployment Steps:</strong> step-by-step instructions to deploy a SQL Database
                     <pre>
-                    login to your AZURE PORTAL
+                        login to your AZURE PORTAL
+                        Go to Azure SQL
+                        Click on your resouse group (create on if you dont have)
+                        Database name
+                        Create a server
+                        Select US2 or any authorized location
+                        Authentication- Use Microsoft entra only
+                        Set Admin
+                        Go to Networking
+                        Connectivity Method- Public endpoint
+                        
+                        
+                        
  Go to Azure SQL \
                         Accept the free tier database
   --name &lt;your-app-name&gt; \
