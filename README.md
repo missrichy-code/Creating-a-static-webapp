@@ -12,7 +12,7 @@
                    <li><strong>Deployment Steps:</strong> step-by-step instructions to deploy a SQL Database
                     <pre>
 login to your AZURE PORTAL
-                        Go to Azure SQL
+                        <b>Go to Azure SQL</b>
                         Accept the free tier database
                         Click on your resouse group (create one if you dont have)
                         Database name
