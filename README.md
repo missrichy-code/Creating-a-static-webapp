@@ -8,7 +8,7 @@
             <li><strong>Purpose In Project:</strong> Its purpose in my project is to move a retail company online store to Azure to handle traffic spike during sales event and to ensure high availability and secure customers transactions .</li>
                   <li><strong>Deployment Steps:</strong> step-by-step instructions to deploy a SQL Database</li>
                     <pre>
-login to your AZURE PORTAL
+                        Login to your AZURE PORTAL
                         <b>Go to Azure SQL</b>
                         <b>Accept the free tier database</b>
                         <b>Click on your resouse group (create one if you dont have)</b>
