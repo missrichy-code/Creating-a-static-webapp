@@ -10,7 +10,7 @@
              </li>
             <li><strong>Purpose In Project:</strong> Its purpose in my project is to move a retail company online store to Azure to handle traffic spike during sales event and to ensure high availability and secure customers transactions .</li>
                    <li><strong>Deployment Steps:</strong> step-by-step instructions to deploy a SQL Database
-                    <pre>
+                    
                         login to your AZURE PORTAL
                         Go to Azure SQL
                         Accept the free tier database
@@ -27,10 +27,7 @@
                         
                                     
   
-  --resource-group &lt;your-resource-group&gt; \
-  --source &lt;repository-url&gt; \
-  --location &lt;region&gt;
-                    </pre>
+  
                     <ing src="screenshot.jpeg" alt="This is my image">
                 </li>
                 <li><strong>Configuration:</strong> Explain how to set environment variables, custom domains, and authentication options.</li>
