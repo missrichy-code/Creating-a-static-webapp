@@ -4,7 +4,6 @@
 </head>
 <body>
     <h1>How to Create a SQL Database </h1>
-   <img width="793" height="463" alt="Screenshot 2025-05-22 173849" src="https://github.com/user-attachments/assets/5ac38ced-4c11-4f6e-acfa-b62eeb84df8a" />
 
 <li><strong>Requirement:</strong> GitHub account, Azure account, and Azure CLI.</li>
                              <li><strong>Overview:</strong>  A SQL Database is a type of relational database that uses Structured Query Language (SQL) for storing, managing and retrieving information. its commonly used in web application, enterprise systems, and data analysis task due to its ability to handle large volume of structured data efficiently.
@@ -12,7 +11,7 @@
             <li><strong>Purpose In Project:</strong> Its purpose in my project is to move a retail company online store to Azure to handle traffic spike during sales event and to ensure high availability and secure customers transactions .</li>
                    <li><strong>Deployment Steps:</strong> step-by-step instructions to deploy a SQL Database
                     <pre>
-                        login to your AZURE PORTAL
+login to your AZURE PORTAL
                         Go to Azure SQL
                         Accept the free tier database
                         Click on your resouse group (create on if you dont have)
@@ -23,13 +22,11 @@
                         Set Admin
                         Go to Networking
                         Connectivity Method- Public endpoint.
-         
+                        
   --resource-group &lt;your-resource-group&gt; \
   --source &lt;repository-url&gt; \
   --location &lt;region&gt;
                     </pre>
-
-
                     <ing src="screenshot.jpeg" alt="This is my image">
                 </li>
                 <li><strong>Configuration:</strong> Explain how to set environment variables, custom domains, and authentication options.</li>
