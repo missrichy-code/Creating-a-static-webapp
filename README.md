@@ -22,7 +22,7 @@
                         Set Admin
                         Go to Networking
                         Connectivity Method- Public endpoint.
-<ing src="Screenshot 2025-05-22 173849.png" alt="This is my image">
+
                         
                         
                                     
@@ -37,6 +37,7 @@
                 <li><strong>References:</strong> Link to official Azure Static Web Apps documentation.</li>
             </ul>
         </li>
+      <ing src="Screenshot 2025-05-22 173849.png" alt="This is my image">
         <li>
             <strong>Commit and Push:</strong>
             <ul>
