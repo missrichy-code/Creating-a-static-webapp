@@ -26,11 +26,12 @@
                         
                         
                                     
-  <ing src="screenshot.jpeg" alt="This is my image">
+  
   --resource-group &lt;your-resource-group&gt; \
   --source &lt;repository-url&gt; \
   --location &lt;region&gt;
                     </pre>
+                    <ing src="screenshot.jpeg" alt="This is my image">
                 </li>
                 <li><strong>Configuration:</strong> Explain how to set environment variables, custom domains, and authentication options.</li>
                 <li><strong>Troubleshooting:</strong> Add common issues and solutions.</li>
