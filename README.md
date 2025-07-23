@@ -21,7 +21,7 @@
                         Authentication- Use Microsoft entra only
                         Set Admin
                         Go to Networking
-                        Connectivity Method- Public endpoint
+                        Connectivity Method- Public endpoint.
 <ing src="screenshot.jpeg" alt="This is my image">
                         
                         
