@@ -23,7 +23,6 @@ login to your AZURE PORTAL
                         Go to Networking
                         Connectivity Method- Public endpoint.
                     </pre>
-                    <img width="793" height="463" alt="Screenshot 2025-05-22 173849" src="https://github.com/user-attachments/assets/a4f93d0c-5629-478d-9789-1c857cefa772" />
                 </li>
                 <li><strong>Configuration:</strong> Explain how to set environment variables, custom domains, and authentication options.</li>
                 <li><strong>Troubleshooting:</strong> Add common issues and solutions.</li>
