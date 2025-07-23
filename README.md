@@ -22,19 +22,14 @@ login to your AZURE PORTAL
                         Set Admin
                         Go to Networking
                         Connectivity Method- Public endpoint.
-                        
-  --resource-group &lt;your-resource-group&gt; \
-  --source &lt;repository-url&gt; \
-  --location &lt;region&gt;
                     </pre>
-                    <ing src="screenshot.jpeg" alt="This is my image">
+                    <img width="793" height="463" alt="Screenshot 2025-05-22 173849" src="https://github.com/user-attachments/assets/a4f93d0c-5629-478d-9789-1c857cefa772" />
                 </li>
                 <li><strong>Configuration:</strong> Explain how to set environment variables, custom domains, and authentication options.</li>
                 <li><strong>Troubleshooting:</strong> Add common issues and solutions.</li>
                 <li><strong>References:</strong> Link to official Azure Static Web Apps documentation.</li>
             </ul>
         </li>
-      <ing src="Screenshot 2025-05-22 173849.png" alt="This is my image">
         <li>
             <strong>Commit and Push:</strong>
             <ul>
@@ -42,7 +37,6 @@ login to your AZURE PORTAL
             </ul>
         </li>
         <li>
-        <img width="793" height="463" alt="Screenshot 2025-05-22 173849" src="https://github.com/user-attachments/assets/88de0d71-3c9d-428e-8dfd-e78eec18cd41" />
             <strong>Keep Documentation Updated:</strong>
             <ul>
                 <li>Update the documentation as your deployment process or app configuration changes.</li>
