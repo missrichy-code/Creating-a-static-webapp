@@ -42,6 +42,7 @@ login to your AZURE PORTAL
             </ul>
         </li>
         <li>
+        <img width="793" height="463" alt="Screenshot 2025-05-22 173849" src="https://github.com/user-attachments/assets/88de0d71-3c9d-428e-8dfd-e78eec18cd41" />
             <strong>Keep Documentation Updated:</strong>
             <ul>
                 <li>Update the documentation as your deployment process or app configuration changes.</li>
